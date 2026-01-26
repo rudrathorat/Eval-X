@@ -127,5 +127,5 @@ http://127.0.0.1:8000
 ## 👤 Author
 
 **Rudra Thorat**  
-AI & Data Science Engineer  
+AI Engineer  
 GitHub: [https://github.com/rudrathorat](https://github.com/rudrathorat)
